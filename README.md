@@ -1,11 +1,8 @@
 
-==============================
-
-## Manage your own health data
+## Manage your own health data | EIT Health Course
 
 Course Link https://www.futurelearn.com/courses/managing-your-health-data
 
-Course Length: 6 hours
 
 Course Instructors :
   * David Pérez del Rey
@@ -14,7 +11,7 @@ Course Instructors :
   * Edward Meinert
 
 
-Project Organization
+## Project Organization
 ------------
 
     ├── LICENSE
