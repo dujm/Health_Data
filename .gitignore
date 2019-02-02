@@ -95,4 +95,4 @@ target/
 *.out
 *.log
 *.aux
-*.tex
+*.lof

@@ -1,7 +1,18 @@
-Health_Data
+
 ==============================
 
-Manage your own health data
+## Manage your own health data
+
+Course Link https://www.futurelearn.com/courses/managing-your-health-data
+
+Course Length: 6 hours
+
+Course Instructors :
+  * David Pérez del Rey
+  * Sergio Paraiso
+  * Raúl Alonso-Calvo
+  * Edward Meinert
+
 
 Project Organization
 ------------
@@ -25,7 +36,7 @@ Project Organization
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    ├── reports            <- Generated pdf report using LaTeX 'Health_data_course.pdf'
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
